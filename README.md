@@ -30,7 +30,7 @@ Getting Started
 
 Clone this repository:
 
-git clone <repository-url>
+git clone https://github.com/m-hamad-hackstar/Encode-Decode
 
 Run the script:
 
