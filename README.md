@@ -41,11 +41,14 @@ Follow the on-screen instructions to encode or decode your message.
 Example
 
 Enter a message to encode: Hello World
+
 Enter number of characters for encoding: 5
+
 Encoded Message: X7c4F9@
 
 Decode (Y/N)? Y
 Decoded Message: Hello World
+
 
 Contribute
 
